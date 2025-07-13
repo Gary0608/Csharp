@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{3F814789-3DCB-41C0-87E3-711BF8248CD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp1", "BlazorApp1\BlazorApp1.csproj", "{15B91B21-42ED-4289-B04D-C5F580B645CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,18 @@ Global
 		{3F814789-3DCB-41C0-87E3-711BF8248CD3}.Release|x64.Build.0 = Release|Any CPU
 		{3F814789-3DCB-41C0-87E3-711BF8248CD3}.Release|x86.ActiveCfg = Release|Any CPU
 		{3F814789-3DCB-41C0-87E3-711BF8248CD3}.Release|x86.Build.0 = Release|Any CPU
+		{15B91B21-42ED-4289-B04D-C5F580B645CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B91B21-42ED-4289-B04D-C5F580B645CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B91B21-42ED-4289-B04D-C5F580B645CB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{15B91B21-42ED-4289-B04D-C5F580B645CB}.Debug|x64.Build.0 = Debug|Any CPU
+		{15B91B21-42ED-4289-B04D-C5F580B645CB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{15B91B21-42ED-4289-B04D-C5F580B645CB}.Debug|x86.Build.0 = Debug|Any CPU
+		{15B91B21-42ED-4289-B04D-C5F580B645CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B91B21-42ED-4289-B04D-C5F580B645CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15B91B21-42ED-4289-B04D-C5F580B645CB}.Release|x64.ActiveCfg = Release|Any CPU
+		{15B91B21-42ED-4289-B04D-C5F580B645CB}.Release|x64.Build.0 = Release|Any CPU
+		{15B91B21-42ED-4289-B04D-C5F580B645CB}.Release|x86.ActiveCfg = Release|Any CPU
+		{15B91B21-42ED-4289-B04D-C5F580B645CB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
