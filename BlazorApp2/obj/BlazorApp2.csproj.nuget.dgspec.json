@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\黃淳郁\\Desktop\\Csharp\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\黃淳郁\\Desktop\\Csharp\\BlazorApp2\\BlazorApp2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\黃淳郁\\Desktop\\Csharp\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\黃淳郁\\Desktop\\Csharp\\BlazorApp2\\BlazorApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\黃淳郁\\Desktop\\Csharp\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\黃淳郁\\Desktop\\Csharp\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\黃淳郁\\Desktop\\Csharp\\BlazorApp2\\BlazorApp2.csproj",
+        "projectName": "BlazorApp2",
+        "projectPath": "C:\\Users\\黃淳郁\\Desktop\\Csharp\\BlazorApp2\\BlazorApp2.csproj",
         "packagesPath": "C:\\Users\\黃淳郁\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\黃淳郁\\Desktop\\Csharp\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\黃淳郁\\Desktop\\Csharp\\BlazorApp2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -61,6 +61,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
